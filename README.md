@@ -21,3 +21,9 @@ Projekt systemu wspomagającego bezkontaktowe monitorowanie pacjentów onkologic
    ```bash
    git clone [https://github.com/TWOJA_NAZWA/NAZWA_REPO.git](https://github.com/TWOJA_NAZWA/NAZWA_REPO.git)
    cd NAZWA_REPO
+   ```
+2. Upewnij się, że masz wszystko z repozytorium
+   ```bash
+   git checkout main
+   git pull origin main
+   ```
